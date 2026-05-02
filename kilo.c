@@ -1,4 +1,3 @@
-// in step 38
 /*** includes ***/
 
 #include <ctype.h>
